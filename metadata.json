@@ -1,0 +1,7 @@
+{
+  "name": "Kepler's Chaos - Saturn Hand Control",
+  "description": "A high-fidelity 3D particle simulation of Saturn where hand gestures control the scale, time, and entropy of the system using Keplerian physics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
